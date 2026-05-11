@@ -90,8 +90,5 @@ Dans une perspective professionnelle, ce projet constitue une base solide pour i
 - **Évaluation plus ciblée** : Mettre davantage l’accent sur le rappel de la classe `Injury`, car cette classe est plus sensible pour la prévention routière.
 - **Modernisation du code** : Remplacer `jaccard_similarity_score`, déprécié dans les versions récentes de Scikit-learn, par `jaccard_score`.
 
-## Remerciements
-Ce projet a été réalisé dans un contexte d’apprentissage en science des données, à partir de ressources pédagogiques proposées par IBM sur Coursera.
-Les données utilisées proviennent de sources ouvertes liées aux collisions routières de la ville de Seattle.
 
 Ce dépôt présente une étude de cas concrète en science des données, centrée sur la prédiction de la gravité des collisions routières et l’interprétation des résultats dans un contexte de décision publique.
